@@ -1,0 +1,40 @@
+.body {
+  font-family: "Crimson Text", serif;
+}
+
+:root {
+  --purple: #a78bfa;
+}
+
+.header {
+  background-color: var(--purple);
+  padding-left: 2rem;
+  font-size: 25px;
+}
+
+.navbar {
+  background-color: var(--purple);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar li {
+  display: inline-block;
+  margin: 2rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+
+.submit-button {
+  margin-top: 2rem;
+  padding: 0.8rem;
+  border-radius: 1rem;
+  font-size: 15px;
+}
