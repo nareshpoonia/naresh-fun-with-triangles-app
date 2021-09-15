@@ -38,3 +38,20 @@
   border-radius: 1rem;
   font-size: 15px;
 }
+
+ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+.triangle-button {
+  margin-top: 2rem;
+  padding: 0.6rem;
+  border-radius: 0.8rem;
+  font-size: 15px;
+  background-color: var(--purple);
+}
+
+.angle-input {
+  margin: 1.8rem 0rem;
+}
