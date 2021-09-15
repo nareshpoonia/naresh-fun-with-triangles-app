@@ -55,3 +55,27 @@ ul li a {
 .angle-input {
   margin: 1.8rem 0rem;
 }
+
+.hypotenuse-button {
+  margin-top: 2rem;
+  padding: 0.6rem;
+  border-radius: 0.8rem;
+  font-size: 15px;
+  background-color: var(--purple);
+}
+
+.base-input {
+  margin: 1.8rem 0rem;
+}
+
+.height-input {
+  margin: 1.8rem 0rem;
+}
+
+.area-button {
+  margin-top: 2rem;
+  padding: 0.6rem;
+  border-radius: 0.8rem;
+  font-size: 15px;
+  background-color: var(--purple);
+}
